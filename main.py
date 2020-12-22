@@ -21,6 +21,8 @@ for n in range(1, len(new_list)+1): # Loop for adding symbol to string and delet
   new_list.remove(random_thing)
 print(f"Your password is -  {password}") # Your password
 input("Press Enter to exit")
+
+
 # separate definition of letters or symbols or numbers ↓↓↓
 # password - 4 letter, 2 symbol, 2 number = JduE &! 91
 """ 
